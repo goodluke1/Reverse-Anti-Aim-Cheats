@@ -1,7 +1,6 @@
 # Reverse Anti Aim Cheats
 
-Professional anti-cheat protection focused on detecting and preventing aim-based cheats.  
-Designed to ensure fair gameplay and server integrity.
+**Reverse Anti Aim Cheats** - no more aim hacks
 
 ---
 
@@ -11,8 +10,6 @@ Designed to ensure fair gameplay and server integrity.
 - Anti Silent Aim (detects and prevents silent aim)
 - RageBot detection
 - TriggerBot detection
-- Real-time protection
-- Lightweight and optimized
 
 ---
 
