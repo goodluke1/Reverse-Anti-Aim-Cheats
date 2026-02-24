@@ -10,6 +10,7 @@
 - Anti Silent Aim (detects and prevents silent aim)
 - RageBot detection
 - TriggerBot detection
+- Anti LockON
 
 ---
 
